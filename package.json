@@ -1,0 +1,19 @@
+{
+  "name": "musicbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon index.js"
+  },
+  "author": "Toadless",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "opusscript": "0.0.7",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^2.1.4"
+  }
+}
